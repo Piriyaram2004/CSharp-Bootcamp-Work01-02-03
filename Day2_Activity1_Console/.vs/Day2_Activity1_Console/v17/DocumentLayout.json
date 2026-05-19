@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\Day2_Activity1_Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DDEBD7-CF2D-4B46-BEC9-2593A7D9ADE8}|Day2_Activity6_Console\\Day2_Activity6_Console.csproj|z:\\c#\\day2_activity1_console\\day2_activity6_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DDEBD7-CF2D-4B46-BEC9-2593A7D9ADE8}|Day2_Activity6_Console\\Day2_Activity6_Console.csproj|solutionrelative:day2_activity6_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED391CEA-8711-4E5B-B2EE-E14E195FF90E}|Day2_Activity5_Console\\Day2_Activity5_Console.csproj|z:\\c#\\day2_activity1_console\\day2_activity5_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED391CEA-8711-4E5B-B2EE-E14E195FF90E}|Day2_Activity5_Console\\Day2_Activity5_Console.csproj|solutionrelative:day2_activity5_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF078544-570D-4D4B-97C4-040BB23F7CE7}|Day2_Activity1_Console\\Day2_Activity1_Console.csproj|z:\\c#\\day2_activity1_console\\day2_activity1_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF078544-570D-4D4B-97C4-040BB23F7CE7}|Day2_Activity1_Console\\Day2_Activity1_Console.csproj|solutionrelative:day2_activity1_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB200A43-1DB2-4193-8756-751572A1EB93}|Day2_Activity3_Console\\Day2_Activity3_Console.csproj|z:\\c#\\day2_activity1_console\\day2_activity3_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB200A43-1DB2-4193-8756-751572A1EB93}|Day2_Activity3_Console\\Day2_Activity3_Console.csproj|solutionrelative:day2_activity3_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86CE847-6719-47A2-9B72-E5BC8C123A9D}|Day2_Activity2_Console\\Day2_Activity2_Console..csproj|z:\\c#\\day2_activity1_console\\day2_activity2_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86CE847-6719-47A2-9B72-E5BC8C123A9D}|Day2_Activity2_Console\\Day2_Activity2_Console..csproj|solutionrelative:day2_activity2_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity6_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Activity6_Console\\Program.cs",
+              "ToolTip": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity6_Console\\Program.cs",
+              "RelativeToolTip": "Day2_Activity6_Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:18:17.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity5_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Activity5_Console\\Program.cs",
+              "ToolTip": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity5_Console\\Program.cs",
+              "RelativeToolTip": "Day2_Activity5_Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:46:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity3_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Activity3_Console\\Program.cs",
+              "ToolTip": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity3_Console\\Program.cs",
+              "RelativeToolTip": "Day2_Activity3_Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:33:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity2_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Activity2_Console\\Program.cs",
+              "ToolTip": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity2_Console\\Program.cs",
+              "RelativeToolTip": "Day2_Activity2_Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:09:35.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity1_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_Activity1_Console\\Program.cs",
+              "ToolTip": "Z:\\C#\\Day2_Activity1_Console\\Day2_Activity1_Console\\Program.cs",
+              "RelativeToolTip": "Day2_Activity1_Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:05:11.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
