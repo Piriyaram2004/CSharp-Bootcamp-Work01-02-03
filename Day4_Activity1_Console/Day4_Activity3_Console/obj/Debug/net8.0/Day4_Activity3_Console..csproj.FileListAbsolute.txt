@@ -1,0 +1,15 @@
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\bin\Debug\net8.0\Day4_Activity3_Console..exe
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\bin\Debug\net8.0\Day4_Activity3_Console..deps.json
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\bin\Debug\net8.0\Day4_Activity3_Console..runtimeconfig.json
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\bin\Debug\net8.0\Day4_Activity3_Console..dll
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\bin\Debug\net8.0\Day4_Activity3_Console..pdb
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..AssemblyInfoInputs.cache
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..AssemblyInfo.cs
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..csproj.CoreCompileInputs.cache
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..sourcelink.json
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..dll
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\refint\Day4_Activity3_Console..dll
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..pdb
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\Day4_Activity3_Console..genruntimeconfig.cache
+Z:\C#\Day4_Activity1_Console\Day4_Activity3_Console\obj\Debug\net8.0\ref\Day4_Activity3_Console..dll
