@@ -6,12 +6,15 @@
         xmlns:local="clr-namespace:Day1_Activity2_WPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <TextBox HorizontalAlignment="Center" Margin="0,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,91,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,149,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Button" HorizontalAlignment="Center" Margin="0,234,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.511,-2.866"/>
-        <TextBlock HorizontalAlignment="Center" Margin="0,325,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" RenderTransformOrigin="1.699,8.931"/>
+    <Grid Background="#FFF94F4F">
+        <TextBox x:Name="firstname" HorizontalAlignment="Center" Margin="0,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="lastname" HorizontalAlignment="Center" Margin="0,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="favcolor" HorizontalAlignment="Center" Margin="0,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,234,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.511,-2.866" Click="Button_Click" Background="#FF6DE60C"/>
+        <TextBlock x:Name="display" HorizontalAlignment="Center" Margin="0,300,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" RenderTransformOrigin="1.699,8.931" Width="442" Background="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="228,47,0,0" TextWrapping="Wrap" Text="FirstName" VerticalAlignment="Top" RenderTransformOrigin="0.162,3.809" Background="#FFE2DA1C"/>
+        <TextBlock HorizontalAlignment="Left" Margin="228,96,0,0" TextWrapping="Wrap" Text="LastName" VerticalAlignment="Top" RenderTransformOrigin="0.162,3.809" Background="#FFFFEB0E"/>
+        <TextBlock HorizontalAlignment="Left" Margin="228,158,0,0" TextWrapping="Wrap" Text="FavColor" VerticalAlignment="Top" RenderTransformOrigin="0.162,3.809" Height="21" Background="#FFBEFD1F"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="Day1_Activity3_WPF_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day1_Activity3_WPF_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="157*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="celsius" Grid.Column="1" HorizontalAlignment="Center" Margin="0,105,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.867,0.114"/>
+        <TextBox x:Name="display" Grid.Column="1" HorizontalAlignment="Center" Margin="0,312,0,0" TextWrapping="Wrap" Text="Show Temperature" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="187,106,0,0" TextWrapping="Wrap" Text="CELSIUS CONVERTER - " VerticalAlignment="Top"/>
+        <Button Grid.Column="1" Content="Button" HorizontalAlignment="Center" Margin="0,196,0,0" VerticalAlignment="Top" Height="33" Width="60" Click="Button_Click"/>
+
+    </Grid>
+</Window>

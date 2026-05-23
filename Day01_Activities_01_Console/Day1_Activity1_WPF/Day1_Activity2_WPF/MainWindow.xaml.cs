@@ -20,5 +20,16 @@ namespace Day1_Activity2_WPF
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string Firstname = firstname.Text;
+            string Lastname = lastname.Text;
+            string Favcolor = favcolor.Text;
+            display.Text = $"FIRST NAME - { Firstname}" +
+                $" LAST NAME - {Lastname}" +
+                $" FAVCOLOR - {Favcolor}";
+
+        }
     }
 }
